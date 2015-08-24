@@ -1,16 +1,19 @@
-Live URL
+[Title] : [Live URL] -> [source code] 
 --------
-http://graphicscow.com/cookin/steepcurve -> (git@github.com:benralexander/cow.git)
-http://graphicscow.com/cookin/sierpinski -> (git@github.com:benralexander/cow.git)
-http://graphicscow.com/cookin/sbox -> (git@github.com:benralexander/cow.git)
-http://graphicscow.com/map/localThoughts  -> (git@github.com:benralexander/cow.git)
-http://graphicscow.com/map/fullScreen  -> (git@github.com:benralexander/cow.git)
-[ not online ]  -> (https://github.com/benralexander/intro-to-D3/blob/master/enterUpdateExit.js)
-http://www.bagetsoftware.org/man/manhattanPlot  -> (git@github.com:benralexander/baget.git)
-https://bard.nih.gov/BARD/bardWebInterface/bigSunburst/3689413 -> (https://github.com/broadinstitute/BARD)
-http://graphicscow.com/veryCross/index  -> (git@github.com:benralexander/cow.git)
-http://www.bagetsoftware.org/crossMap/crossTrait  -> (git@github.com:benralexander/baget.git)
-http://www.bagetsoftware.org/crossMap/crossTrait  -> (git@github.com:benralexander/baget.git)
-http://www.type2diabetesgenetics.org/variantInfo/variantInfo/rs13266634  -> (git@github.com:broadinstitute/dig-diabetes-portal.git)
-http://www.bagetsoftware.org/crossMap/crossTrait  -> (git@github.com:benralexander/baget.git)
+"Steep curves"                     : http://graphicscow.com/cookin/steepcurve -> (git@github.com:benralexander/cow.git)
+"Sierpinski triangles"             : http://graphicscow.com/cookin/sierpinski -> (git@github.com:benralexander/cow.git)
+"result"                           : http://graphicscow.com/cookin/sbox -> (git@github.com:benralexander/cow.git)
+"Terrestrial map"                  : http://graphicscow.com/map/localThoughts  -> (git@github.com:benralexander/cow.git)
+"Celestial map"                    : http://graphicscow.com/map/fullScreen  -> (git@github.com:benralexander/cow.git)
+"Flawed presentation of SNPs"      : [ not online ]  -> (https://github.com/benralexander/intro-to-D3/blob/master/enterUpdateExit.js)
+"Manhattan plot"                   : http://www.bagetsoftware.org/man/manhattanPlot  -> (git@github.com:benralexander/baget.git)
+"Linked hierarchies visualization" : https://bard.nih.gov/BARD/bardWebInterface/bigSunburst/3689413 -> (https://github.com/broadinstitute/BARD)
+"Linked hierarchies visualization" : http://graphicscow.com/veryCross/index  -> (git@github.com:benralexander/cow.git)
+"Flawed presentation of SNPs"      : http://www.bagetsoftware.org/crossMap/crossTrait  -> (git@github.com:benralexander/baget.git)
+"It's only a bar chart"            : http://www.type2diabetesgenetics.org/variantInfo/variantInfo/rs13266634  -> (git@github.com:broadinstitute/dig-diabetes-portal.git)
+"Flawed presentation of SNPs"      : http://www.bagetsoftware.org/crossMap/crossTrait  -> (git@github.com:benralexander/baget.git)
+"Refined CCL graphic"              :  http://bovinecontemplation.org/scientificGraphics/ccls -> [source not available]
+"Sunburst MLP graphic"             : http://graphicscow.com/probe/probe_targets  -> (git@github.com:benralexander/cow.git)
+
+
 
